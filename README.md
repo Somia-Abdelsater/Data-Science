@@ -78,11 +78,8 @@ We welcome contributions to expand and improve this repository! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request to the main repository.
 
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
-
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
